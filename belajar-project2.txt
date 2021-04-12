@@ -1,0 +1,4 @@
+RESOLUSI PROJECT2
+- Konsisten untuk membuat Project Minimal 2x seminggu
+- membuat platform untuk pengelolaan project2
+- Membuat Forum diskusi by Telegram
