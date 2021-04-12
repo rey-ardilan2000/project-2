@@ -1,0 +1,8 @@
+RENCANA PEMBUATAN BLOOGER
+
+- PYTHON
+- DJANGO FREAMWORKS
+  #Bootstrap
+  #Freamwork Javascript
+- INTERVIEW
+- KONTEN
